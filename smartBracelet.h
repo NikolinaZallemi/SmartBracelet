@@ -4,7 +4,7 @@
 //////////////////////////////////////////////
 //GLOBAL VARS
 
-//the max number of supported couples, where "total nodes = 2 couples = 4"
+//the max number of supported couples, where "total nodes = 4 couples = 2"
 #define C_MAX 2
 #define N_MAX C_MAX*2
 
